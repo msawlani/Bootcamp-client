@@ -38,7 +38,6 @@ class App extends React.Component {
                 <div class="card-body">
                   <h5 class="card-text">{Employee.name}</h5>
                   {Employee.location}
-                  <button>Click me</button>
                 </div>
               </div>
             )
