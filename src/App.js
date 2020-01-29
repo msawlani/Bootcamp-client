@@ -18,6 +18,7 @@ class App extends React.Component {
         console.log(Employees)
         this.setState({
           Employees: Employees
+
         })
       })
   }
