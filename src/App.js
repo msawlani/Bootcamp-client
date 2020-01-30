@@ -26,7 +26,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App contrainer">
+      <div className="App container">
         <div className="Text">
           <h1>Video Games</h1>
         </div>
